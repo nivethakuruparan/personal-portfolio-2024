@@ -1,9 +1,11 @@
 import Link from "next/link";
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
+import { MdEmail } from 'react-icons/md'
 
 const social = [
-    { icon: <FaGithub />, path: '' },
-    { icon: <FaLinkedinIn />, path: '' },
+    { icon: <FaGithub />, path: 'https://github.com/nivethakuruparan' },
+    { icon: <FaLinkedinIn />, path: 'https://www.linkedin.com/in/nivethakuruparan' }, 
+    { icon: <MdEmail />, path: 'mailto:nivetha.kuruparan@gmail.com' }
 ];
 
 const Socials = ({ containerStyles, iconStyles }) => {

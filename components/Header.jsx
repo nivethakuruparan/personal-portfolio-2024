@@ -11,8 +11,8 @@ const Header = () => {
         <div className="container mx-auto flex justify-between items-center">
             {/* logo */}
             <Link href="/">
-                <h1 className="text-4xl font-semi-bold">
-                    Nivetha <span className="text-accent">.</span>
+                <h1 className="text-4xl font-bold uppercase">
+                    Nivetha
                 </h1>
             </Link>
 
@@ -20,9 +20,6 @@ const Header = () => {
             {/* desktop nav & hire me button*/}
             <div className="hidden xl:flex items-center gap-8">
                 <Nav />
-                <Link href="/contact">
-                    <Button>Hire me</Button>
-                </Link>
             </div>
 
             {/* mobile nav */}
