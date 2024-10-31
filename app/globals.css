@@ -15,7 +15,7 @@
   }
   body {
     @apply font-primary bg-primary text-white leading-loose;
-    background-image: url('/assets/background.gif');
+    background-image: url("/assets/background.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -34,7 +34,6 @@
     -webkit-text-stroke: 1px #ffffff;
   }
   .text-outline-hover {
-    -webkit-text-stroke: 1px #6ABEF8;
+    -webkit-text-stroke: 1px #6abef8;
   }
 }
-
