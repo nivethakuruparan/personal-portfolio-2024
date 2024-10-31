@@ -19,11 +19,10 @@ const Home = () => {
               <span className="text-accent">Nivetha Kuruparan</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              Hello, thanks for checking out my personal website! I'm Nivetha, a
-              Software Engineering student at McMaster University. I built this
-              project using Next.js, Tailwind CSS, and Framer Motion, and had a
-              lot of fun doing it! Feel free to explore more about me and check
-              out some of my past projects. <br />
+              Thanks for checking out my personal website! I built this project
+              using Next.js, Tailwind CSS, and Framer Motion, and had a lot of
+              fun doing it! Feel free to explore more about me and check out
+              some of my past projects. <br />
               <br /> I love coding and am always eager to learn new skills.
               Right now, I'm focused on deepening my understanding of data
               structures and algorithms, diving more into frontend development,

@@ -87,7 +87,7 @@ const extracurricular = {
 
 // skills data
 const skills = {
-  title: "My skills",
+  title: "My technical skills",
   description:
     "A summary of technical proficiencies I've developed through my studies, projects, and work experience, including various programming languages, frameworks, and tools.",
   skillList: [
