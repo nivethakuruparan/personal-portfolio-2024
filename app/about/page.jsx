@@ -40,7 +40,7 @@ const experience = {
   items: [
     {
       company: "McMaster University",
-      position: "ENG 1P13 Teaching Assistant",
+      position: "ENGINEER 1P13 Teaching Assistant",
       duration: "Sep 2024 - Present",
     },
     {
