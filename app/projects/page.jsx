@@ -9,23 +9,23 @@ const projects = [
     name: "Personal Portfolio 2024",
     tech: "Next.js, Tailwind CSS, Framer Motion",
     description:
-      "This portfolio is the upgraded version of my 2022 site, showing off my latest projects and web development skills. Built with Next.js and Tailwind CSS, it’s packed with smooth animations powered by Framer Motion, giving it a more dynamic and engaging feel. It’s been a great way to showcase my growth in both design and development!",
+      "This portfolio is the upgraded version of my 2022 site, showing off my latest projects and web development skills. Built with Next.js and Tailwind CSS, it's packed with smooth animations powered by Framer Motion, giving it a more dynamic and engaging feel. It's been a great way to showcase my growth in both design and development! Check out the code on Github!",
     image: "/assets/portfolio_2024.avif",
     text: "View on Github",
     url: "https://github.com/nivethakuruparan/personal-portfolio-2024",
   },
   {
     name: "Source Code Optimizer",
-    tech: "Python, Typescript",
+    tech: "Python, Typescript, Pylint, Rope, PyJoules",
     description:
-      "As my capstone project, this automated tool is aimed at improving the energy efficiency of Python code by identifying and implementing refactorings. It integrates with GitHub Actions and VSCode, allowing users to accept or decline suggested changes, and utilizes tools like Pylint, Rope, and PyJoules for detailed analysis and optimization. This project provides a streamlined interface to guide developers toward more energy-efficient code, helping to reduce energy consumption without altering functionality.",
+      "As my capstone project, this automated tool is aimed at improving the energy efficiency of Python code by identifying and implementing refactorings. It integrates with GitHub Actions and VSCode, allowing users to accept or decline suggested changes, and utilizes tools like Pylint, Rope, and PyJoules for detailed analysis and optimization. This project provides a streamlined interface to guide developers toward more energy-efficient code, helping to reduce energy consumption without altering functionality. Check out the code on Github!",
     image: "/assets/code_optimizer.avif",
     text: "View on Github",
     url: "https://github.com/nivethakuruparan/source-code-optimizer",
   },
   {
     name: "Carpool Clan",
-    tech: "Next.js, Tailwind CSS, Framer Motion",
+    tech: "Java, XML, Android Studio, Google Maps API, Google Firebase",
     description:
       "This carpooling platform was a semester-long project for the SFWRENG 3A04 course, Software Architecture, where I collaborated with a team of five to build a mobile app connecting people for shared commutes. It was my first experience working with Android Studio, the Google Maps API, and Google Firebase for backend integration, as well as creating a comprehensive Software Requirements Specification (SRS) document. We designed the app to be responsive and user-friendly, making carpooling more accessible and convenient. This project was both challenging and rewarding, offering hands-on experience with mobile development and collaborative software architecture.",
     image: "/assets/carpooling.avif",
@@ -34,7 +34,7 @@ const projects = [
   },
   {
     name: "Bin Packing",
-    tech: "Python, Typescript",
+    tech: "Python",
     description:
       "This project, completed as part of the SFWRENG 3X03 course, Software Engineering Practice and Experience: Binding Theory to Practice, addresses the bin packing problem using a range of algorithms to optimize space utilization. It provided a hands-on experience with algorithm implementation for efficient storage solutions, demonstrating the practical applications of computational problem-solving techniques.",
     image: "/assets/bin_packing.jpg",
