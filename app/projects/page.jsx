@@ -63,7 +63,7 @@ const projects = [
     name: "Pawsitive",
     tech: "HTML5, CSS3, Bootstrap4, Node.js, PetFinder's API",
     description:
-      "This project was my team’s submission for the Girls Hoo Hacks Hackathon, where we were thrilled to win the Best Social Good Category. We created a dynamic website that allows users to enter their zip code and discover adoptable pets in their area, utilizing the PetFinder API for seamless searches. This project marked my first experience with Node.js, and collaborating with my team was an incredibly rewarding experience. Check out our submission on Devpost!",
+      "This project was my team's submission for the Girls Hoo Hacks Hackathon, where we were thrilled to win the Best Social Good Category. We created a dynamic website that allows users to enter their zip code and discover adoptable pets in their area, utilizing the PetFinder API for seamless searches. This project marked my first experience with Node.js, and collaborating with my team was an incredibly rewarding experience. Check out our submission on Devpost!",
     image: "/assets/pet_adoption.jpg",
     text: "View on Devpost",
     url: "https://devpost.com/software/pawsitive-t4pogf",
