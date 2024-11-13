@@ -1,3 +1,9 @@
+💻 This is my revamped personal website for 2024! <br/>
+🛠️ Tech Stack: Next.js, Tailwind CSS, Framer Motion <br/>
+👨‍🏫 Inspired by: https://www.youtube.com/watch?v=dImgZ_AH7uA&list=WL&index=57 <br/>
+👩‍💻 Check the finished product out at [https://nivethakuruparan.vercel.app/](https://nivethakuruparan.vercel.app/)
+<hr>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
